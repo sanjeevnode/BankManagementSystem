@@ -1,0 +1,4 @@
+1. Install netbeans with jdk 18
+2.install mysql
+3.create database bankmanagement and import 'bms.sql' file
+4.open netbeans and open the project and run
